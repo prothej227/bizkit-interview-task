@@ -6,3 +6,4 @@ USERS = [
     {"id": "5", "name": "Jane Smith", "age": 31, "occupation": "Manager"},
     {"id": "6", "name": "Joe Smith", "age": 24, "occupation": "Designer"},
 ]
+
